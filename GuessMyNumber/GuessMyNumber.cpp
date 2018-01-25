@@ -38,6 +38,6 @@ int main()
 		}
 	} 
 	while (guess != secretNumber);
-    return 0;
+    return 0; // end program
 }
 
